@@ -10,9 +10,9 @@
 
 <br>
 
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 📫 How to reach me ... 
+- 👀 I’m interested in ... Coding | Web Development | R&D
+- 🌱 I’m currently learning ... Machine Learning
+- 📫 How to reach me ... 📱 9905025929 | 📧 ankitsinha111200@gmail.com
 
 <!---
 ankitsinha1112/ankitsinha1112 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
